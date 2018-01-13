@@ -1,0 +1,26 @@
+.card {
+  height: 16rem;
+  width: 12rem;
+  background: #FFF;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.24);
+  cursor: pointer;
+  overflow: auto;
+  margin-left: calc(50% - 12rem);
+}
+
+.button {
+  height: 4rem;
+  width: 12rem;
+  color: #b69191;
+  line-height: 4rem;
+  background: #FFF;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.24);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-left: calc(50% - 12rem);
+}
+
+.App {
+  text-align: center;
+}
