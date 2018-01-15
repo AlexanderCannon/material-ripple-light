@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Ripple from 'material-ripple-light'
+import Ripple from './Ripple'
 import './App.css'
 
 class App extends Component {
